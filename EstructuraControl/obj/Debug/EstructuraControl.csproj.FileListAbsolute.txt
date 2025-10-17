@@ -1,0 +1,8 @@
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\bin\Debug\EstructuraControl.exe.config
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\bin\Debug\EstructuraControl.exe
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\bin\Debug\EstructuraControl.pdb
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\obj\Debug\EstructuraControl.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\obj\Debug\EstructuraControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\obj\Debug\EstructuraControl.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\obj\Debug\EstructuraControl.exe
+C:\Users\Sena\source\repos\Ficha_3147912 - Xander\EstructuraControl\obj\Debug\EstructuraControl.pdb
