@@ -1,0 +1,60 @@
+﻿@model Servicios.Models.ServicioManoObra
+
+@{
+    ViewData["Title"] = "Eliminar servicio de mano de obra";
+}
+
+<h1 class="text-2xl md:text-3xl font-semibold text-neutral-900 mb-4">
+    Eliminar servicio de mano de obra
+</h1>
+
+<div class="bg-white rounded-2xl shadow-sm p-6 space-y-4 text-sm">
+    <p class="text-sm text-neutral-700 mb-2">
+        ¿Seguro que deseas eliminar este servicio? Se marcará como <b>inactivo</b> (soft delete).
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-4">
+        <div>
+            <p class="text-xs text-neutral-500">Código</p>
+            <p class="font-mono text-sm">@Model.Codigo</p>
+        </div>
+        <div>
+            <p class="text-xs text-neutral-500">Nombre</p>
+            <p class="font-medium text-neutral-900">@Model.Nombre</p>
+        </div>
+        <div>
+            <p class="text-xs text-neutral-500">Categoría</p>
+            <p>@Model.CategoriaServicio?.Nombre</p>
+        </div>
+        <div>
+            <p class="text-xs text-neutral-500">Tipo</p>
+            @if (Model.EsGarantia)
+            {
+                <span class="inline-flex items-center px-2 py-1 rounded-full text-[11px] font-medium bg-emerald-100 text-emerald-700">Garantía</span>
+            }
+            else
+            {
+                <span class="inline-flex items-center px-2 py-1 rounded-full text-[11px] font-medium bg-neutral-100 text-neutral-700">Normal</span>
+            }
+        </div>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-4 border-t border-neutral-100 pt-4">
+        <div><p class="text-xs text-neutral-500">Valor base</p><p class="font-medium">@Model.ValorBase.ToString("C0")</p></div>
+        <div><p class="text-xs text-neutral-500">Subtotal</p><p class="font-medium">@Model.SubTotal.ToString("C0")</p></div>
+        <div><p class="text-xs text-neutral-500">Total con IVA</p><p class="font-semibold text-neutral-900">@Model.ValorConIva.ToString("C0")</p></div>
+    </div>
+</div>
+
+<form asp-action="Desactivar" asp-route-id="@Model.Id" method="post" class="mt-4 flex items-center justify-between text-xs">
+    @Html.AntiForgeryToken()
+
+    <a asp-action="Index" class="text-neutral-500 hover:text-neutral-800">
+        ← Cancelar y volver al listado
+    </a>
+
+    <button type="submit"
+            class="inline-flex items-center px-4 py-2 rounded-xl text-sm font-semibold bg-red-600 text-neutral-50 hover:bg-red-700">
+        Sí, desactivar
+    </button>
+</form>

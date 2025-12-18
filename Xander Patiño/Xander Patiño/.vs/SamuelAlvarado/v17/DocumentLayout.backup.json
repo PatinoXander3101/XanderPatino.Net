@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112202956_otra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SamuelAlvarado\\Migrations\\20251112202956_otra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\migrations\\20251112201221_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\migrations\\20251112201221_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\samuelalvarado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\samuelalvarado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\mateo\\onedrive\\escritorio\\samuelalvarado\\samuelalvarado\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251112202956_otra.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:29:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:28:17.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:27:29.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:26:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:15:54.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Models\\Venta.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Models\\Venta.cs",
+              "ViewState": "AgIAAAwAAABQZmZmZmYzwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:15:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Models\\Producto.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:15:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Models\\Cliente.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:14:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251112201221_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T20:12:21.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SamuelAlvarado.csproj",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\SamuelAlvarado.csproj",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\SamuelAlvarado.csproj",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\SamuelAlvarado.csproj",
+              "RelativeToolTip": "SamuelAlvarado\\SamuelAlvarado.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T20:04:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:00:41.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:00:39.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:00:34.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:00:30.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:00:27.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:00:15.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T20:00:12.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SamuelAlvarado\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T19:59:32.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\appsettings.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\appsettings.json",
+              "RelativeToolTip": "SamuelAlvarado\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T19:59:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\appsettings.Development.json",
+              "RelativeToolTip": "SamuelAlvarado\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T19:59:15.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Program.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\OneDrive\\Escritorio\\SamuelAlvarado\\SamuelAlvarado\\Program.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:59:09.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+﻿@model Servicios.Models.ServicioManoObra
+
+@{
+    ViewData["Title"] = "Detalle servicio de mano de obra";
+}
+
+<div class="mb-4">
+    <h1 class="text-2xl md:text-3xl font-semibold text-neutral-900">Detalle del servicio</h1>
+    <p class="text-sm text-neutral-500">Información completa del servicio de mano de obra.</p>
+</div>
+
+<div class="bg-white rounded-2xl shadow-sm p-6 space-y-4 text-sm">
+    <div class="grid md:grid-cols-2 gap-4">
+        <div>
+            <p class="text-xs text-neutral-500">Código</p>
+            <p class="font-mono text-sm">@Model.Codigo</p>
+        </div>
+        <div>
+            <p class="text-xs text-neutral-500">Nombre</p>
+            <p class="font-medium text-neutral-900">@Model.Nombre</p>
+        </div>
+        <div>
+            <p class="text-xs text-neutral-500">Categoría</p>
+            <p>@Model.CategoriaServicio?.Nombre</p>
+        </div>
+        <div>
+            <p class="text-xs text-neutral-500">Tipo</p>
+            @if (Model.EsGarantia)
+            {
+                <span class="inline-flex items-center px-2 py-1 rounded-full text-[11px] font-medium bg-emerald-100 text-emerald-700">Garantía</span>
+            }
+            else
+            {
+                <span class="inline-flex items-center px-2 py-1 rounded-full text-[11px] font-medium bg-neutral-100 text-neutral-700">Normal</span>
+            }
+        </div>
+    </div>
+
+    <div>
+        <p class="text-xs text-neutral-500">Descripción</p>
+        <p class="text-sm text-neutral-800">@Model.Descripcion</p>
+    </div>
+
+    <div class="grid md:grid-cols-4 gap-4">
+        <div><p class="text-xs text-neutral-500">Horas</p><p>@Model.Horas</p></div>
+        <div><p class="text-xs text-neutral-500">Tarifa por hora</p><p>@Model.TarifaHora.ToString("C0")</p></div>
+        <div><p class="text-xs text-neutral-500">Descuento (%)</p><p>@Model.DescuentoPorc %</p></div>
+        <div><p class="text-xs text-neutral-500">IVA (%)</p><p>@Model.IvaPorc %</p></div>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-4 border-t border-neutral-100 pt-4">
+        <div><p class="text-xs text-neutral-500">Valor base</p><p class="font-medium">@Model.ValorBase.ToString("C0")</p></div>
+        <div><p class="text-xs text-neutral-500">Subtotal</p><p class="font-medium">@Model.SubTotal.ToString("C0")</p></div>
+        <div><p class="text-xs text-neutral-500">Total con IVA</p><p class="font-semibold text-neutral-900">@Model.ValorConIva.ToString("C0")</p></div>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-4 border-t border-neutral-100 pt-4">
+        <div>
+            <p class="text-xs text-neutral-500">Estado</p>
+            @if (Model.Activo)
+            {
+                <span class="inline-flex px-2 py-1 rounded-full text-[11px] font-medium bg-green-100 text-green-700">Activo</span>
+            }
+            else
+            {
+                <span class="inline-flex px-2 py-1 rounded-full text-[11px] font-medium bg-red-100 text-red-700">Inactivo</span>
+            }
+        </div>
+        <div>
+            <p class="text-xs text-neutral-500">Auditoría</p>
+            <p class="text-xs text-neutral-700">
+                Creado: @Model.FechaCreacion.ToString("g") por @Model.CreadoPor<br />
+                Actualizado: @(Model.FechaActualizacion?.ToString("g") ?? "-") por @Model.ActualizadoPor
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="mt-4 flex items-center justify-between text-xs">
+    <a asp-action="Index" class="text-neutral-500 hover:text-neutral-800">← Volver al listado</a>
+    <div class="space-x-2">
+        <a asp-action="Edit" asp-route-id="@Model.Id"
+           class="inline-flex items-center px-3 py-1.5 rounded-xl text-xs font-medium bg-neutral-900 text-neutral-50 hover:bg-neutral-800">
+            Editar
+        </a>
+        <a asp-action="Delete" asp-route-id="@Model.Id"
+           class="inline-flex items-center px-3 py-1.5 rounded-xl text-xs font-medium bg-red-600 text-neutral-50 hover:bg-red-700">
+            Eliminar
+        </a>
+    </div>
+</div>

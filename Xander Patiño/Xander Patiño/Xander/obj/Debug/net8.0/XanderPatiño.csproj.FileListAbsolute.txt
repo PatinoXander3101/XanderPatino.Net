@@ -1,0 +1,9 @@
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.RazorAssemblyInfo.cache
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.RazorAssemblyInfo.cs
+C:\Users\Sena\source\repos\Ficha - 3147912 - XANDER\SamuelAlvarado\SamuelAlvarado\SamuelAlvarado\obj\Debug\net8.0\XanderPatiño.sourcelink.json

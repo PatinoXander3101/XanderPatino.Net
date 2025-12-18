@@ -1,0 +1,95 @@
+﻿@model Servicios.Models.ViewModels.ServicioManoObraFormVm
+
+<form method="post" class="bg-white p-6 rounded-2xl shadow-sm max-w-4xl">
+    @Html.AntiForgeryToken()
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div>
+            <label asp-for="Codigo" class="block text-sm font-medium text-neutral-700"></label>
+            <input asp-for="Codigo"
+                   class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm"
+                   placeholder="Se genera automáticamente si lo dejas vacío" />
+            <span asp-validation-for="Codigo" class="text-xs text-red-600"></span>
+        </div>
+
+        <div>
+            <label asp-for="Nombre" class="block text-sm font-medium text-neutral-700"></label>
+            <input asp-for="Nombre"
+                   class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm" />
+            <span asp-validation-for="Nombre" class="text-xs text-red-600"></span>
+        </div>
+
+        <div class="md:col-span-2">
+            <label asp-for="Descripcion" class="block text-sm font-medium text-neutral-700"></label>
+            <textarea asp-for="Descripcion" rows="3"
+                      class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm"></textarea>
+            <span asp-validation-for="Descripcion" class="text-xs text-red-600"></span>
+        </div>
+
+        <div>
+            <label asp-for="CategoriaServicioId" class="block text-sm font-medium text-neutral-700"></label>
+            <select asp-for="CategoriaServicioId"
+                    asp-items="ViewBag.Categorias"
+                    class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm">
+                <option value="">-- Selecciona una categoría --</option>
+            </select>
+            <span asp-validation-for="CategoriaServicioId" class="text-xs text-red-600"></span>
+        </div>
+
+        <div>
+            <label asp-for="Horas" class="block text-sm font-medium text-neutral-700"></label>
+            <input asp-for="Horas"
+                   class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm" />
+            <span asp-validation-for="Horas" class="text-xs text-red-600"></span>
+        </div>
+
+        <div>
+            <label asp-for="TarifaHora" class="block text-sm font-medium text-neutral-700"></label>
+            <input asp-for="TarifaHora"
+                   class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm" />
+            <span asp-validation-for="TarifaHora" class="text-xs text-red-600"></span>
+        </div>
+
+        <div>
+            <label asp-for="DescuentoPorc" class="block text-sm font-medium text-neutral-700"></label>
+            <input asp-for="DescuentoPorc"
+                   class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm" />
+            <span asp-validation-for="DescuentoPorc" class="text-xs text-red-600"></span>
+        </div>
+
+        <div>
+            <label asp-for="IvaPorc" class="block text-sm font-medium text-neutral-700"></label>
+            <input asp-for="IvaPorc"
+                   class="w-full rounded-xl border border-neutral-200 px-3 py-2 text-sm" />
+            <span asp-validation-for="IvaPorc" class="text-xs text-red-600"></span>
+        </div>
+
+        <div class="flex items-center gap-2 mt-6">
+            <input asp-for="EsGarantia" class="rounded border-neutral-300" />
+            <label asp-for="EsGarantia" class="text-sm text-neutral-700"></label>
+        </div>
+
+        <div class="flex items-center gap-2 mt-6">
+            <input asp-for="Activo" class="rounded border-neutral-300" />
+            <label asp-for="Activo" class="text-sm text-neutral-700"></label>
+        </div>
+    </div>
+
+    <div class="mt-6 flex gap-3">
+        <button type="submit"
+                class="px-5 py-2 rounded-xl bg-neutral-900 text-white text-sm font-semibold">
+            Guardar
+        </button>
+
+        <a asp-action="Index"
+           class="px-5 py-2 rounded-xl bg-neutral-200 text-neutral-800 text-sm font-medium">
+            Cancelar
+        </a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

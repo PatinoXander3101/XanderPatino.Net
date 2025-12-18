@@ -1,0 +1,760 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\appsettings.development.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\appsettings.development.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\MiguelMesa.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\miguelmesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\MiguelMesa.csproj|solutionrelative:samuelalvarado\\miguelmesa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\migrations\\20251112202956_otra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\migrations\\20251112202956_otra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\migrations\\20251112201221_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\migrations\\20251112201221_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\ventas\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\ventas\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\ventas\\edit.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\ventas\\edit.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\ventas\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\ventas\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\ventas\\delete.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\ventas\\delete.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\ventas\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\ventas\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\shared\\_validationscriptspartial.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\_validationscriptspartial.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\shared\\_layout.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\_layout.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\productoes\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\productoes\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\productoes\\edit.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\productoes\\edit.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\productoes\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\productoes\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\productoes\\delete.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\productoes\\delete.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\productoes\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\productoes\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\clientes\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\clientes\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\clientes\\edit.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\clientes\\edit.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\clientes\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\clientes\\details.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\clientes\\delete.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\clientes\\delete.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\clientes\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\clientes\\create.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|c:\\users\\migue\\source\\repos\\3147912\\samuelalvarado\\samuelalvarado\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21333824-B1E0-47CB-9C20-9E6E76464FCE}|SamuelAlvarado\\SamuelAlvarado.csproj|solutionrelative:samuelalvarado\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:15:40.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\Producto.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\Venta.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Models\\Venta.cs",
+              "ViewState": "AgIAAA4AAABQZmZmZmY8wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\appsettings.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.json*",
+              "RelativeToolTip": "SamuelAlvarado\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:13:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.Development.json",
+              "RelativeToolTip": "SamuelAlvarado\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:13:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Program.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Program.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Program.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SamuelAlvarado.csproj",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\MiguelMesa.csproj",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\MiguelMesa.csproj",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\MiguelMesa.csproj",
+              "RelativeToolTip": "SamuelAlvarado\\MiguelMesa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T03:13:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Models\\Cliente.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251112202956_otra.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Migrations\\20251112202956_otra.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:15:26.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251112201221_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Migrations\\20251112201221_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwGIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:17:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:17:09.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Ventas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Ventas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:17:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:17:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Ventas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Ventas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:57.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Productoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Index.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Productoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Productoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Edit.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Productoes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:36.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Productoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Details.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Productoes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:32.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Productoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Delete.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Productoes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:29.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Productoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Productoes\\Create.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Productoes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:26.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:16:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:15:59.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:15:56.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:13:27.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SamuelAlvarado\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:14:44.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SamuelAlvarado\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:14:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:13:28.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\Error.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:13:28.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:13:28.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:13:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\Home\\Privacy.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:13:28.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\_ViewImports.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:13:28.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SamuelAlvarado\\Views\\_ViewStart.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-13T03:13:28.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SamuelAlvarado\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:13:28.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\appsettings.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.json",
+              "RelativeToolTip": "SamuelAlvarado\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:13:28.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SamuelAlvarado\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\migue\\source\\repos\\3147912\\SamuelAlvarado\\SamuelAlvarado\\appsettings.Development.json",
+              "RelativeToolTip": "SamuelAlvarado\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T03:13:28.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\source\\repos\\Servicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\serviciosmanoobra\\_formserviciomanoobra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\serviciosmanoobra\\_formserviciomanoobra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\serviciosmanoobra\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\serviciosmanoobra\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\controllers\\serviciosmanoobracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\serviciosmanoobracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\viewmodels\\serviciomanoobraformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\viewmodels\\serviciomanoobraformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\viewmodels\\serviciomanoobrafiltrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\viewmodels\\serviciomanoobrafiltrovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\viewmodels\\categoriaservicioindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\viewmodels\\categoriaservicioindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\serviciosmanoobra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\serviciosmanoobra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\serviciosmanoobra\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\serviciosmanoobra\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\viewmodels\\serviciomanoobraindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\viewmodels\\serviciomanoobraindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\categoriasservicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\categoriasservicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\controllers\\categoriasserviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\categoriasserviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\serviciomanoobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\serviciomanoobra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\serviciosmanoobra\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\serviciosmanoobra\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\serviciosmanoobra\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\serviciosmanoobra\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\consts\\ordenservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\consts\\ordenservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\models\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\models\\categoriaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\categoriasservicio\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\categoriasservicio\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\categoriasservicio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\categoriasservicio\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\views\\categoriasservicio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\views\\categoriasservicio\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211192246_inicialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servicios\\Migrations\\20251211192246_inicialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211191614_InicialServicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servicios\\Migrations\\20251211191614_InicialServicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\migrations\\20251211192621_inicialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\migrations\\20251211192621_inicialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|c:\\users\\mateo\\source\\repos\\servicios\\servicios\\migrations\\20251216130136_fk_categoriaservicio_enservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5958A855-38D8-2012-71D5-B8F8497BFE4C}|Servicios\\Servicios.csproj|solutionrelative:servicios\\migrations\\20251216130136_fk_categoriaservicio_enservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioManoObraFormVm.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\ServicioManoObraFormVm.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\ViewModels\\ServicioManoObraFormVm.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\ServicioManoObraFormVm.cs",
+              "RelativeToolTip": "Servicios\\Models\\ViewModels\\ServicioManoObraFormVm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T04:24:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiciosManoObraController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Controllers\\ServiciosManoObraController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\ServiciosManoObraController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Controllers\\ServiciosManoObraController.cs*",
+              "RelativeToolTip": "Servicios\\Controllers\\ServiciosManoObraController.cs*",
+              "ViewState": "AgIAACcBAAAAAAAAAAAqwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:34:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Create.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\ServiciosManoObra\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Create.cshtml*",
+              "RelativeToolTip": "Servicios\\Views\\ServiciosManoObra\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:44:31.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_FormServicioManoObra.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\_FormServicioManoObra.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\ServiciosManoObra\\_FormServicioManoObra.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\_FormServicioManoObra.cshtml*",
+              "RelativeToolTip": "Servicios\\Views\\ServiciosManoObra\\_FormServicioManoObra.cshtml*",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:45:12.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioManoObraFiltroVm.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\ServicioManoObraFiltroVm.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\ViewModels\\ServicioManoObraFiltroVm.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\ServicioManoObraFiltroVm.cs",
+              "RelativeToolTip": "Servicios\\Models\\ViewModels\\ServicioManoObraFiltroVm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:33:21.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaServicioIndexVm.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\CategoriaServicioIndexVm.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\ViewModels\\CategoriaServicioIndexVm.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\CategoriaServicioIndexVm.cs",
+              "RelativeToolTip": "Servicios\\Models\\ViewModels\\CategoriaServicioIndexVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T04:27:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Index.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\ServiciosManoObra\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Index.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\ServiciosManoObra\\Index.cshtml",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAowAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:44:03.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\ServiciosManoObra\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Edit.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\ServiciosManoObra\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:44:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Servicios\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Servicios\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:15:07.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServicioManoObraIndexVm.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\ServicioManoObraIndexVm.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\ViewModels\\ServicioManoObraIndexVm.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ViewModels\\ServicioManoObraIndexVm.cs",
+              "RelativeToolTip": "Servicios\\Models\\ViewModels\\ServicioManoObraIndexVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:33:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\CategoriasServicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Index.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\CategoriasServicio\\Index.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAowJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:45:51.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriasServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Controllers\\CategoriasServicioController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\CategoriasServicioController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Controllers\\CategoriasServicioController.cs",
+              "RelativeToolTip": "Servicios\\Controllers\\CategoriasServicioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:34:04.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\appsettings.json",
+              "RelativeDocumentMoniker": "Servicios\\appsettings.json",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\appsettings.json",
+              "RelativeToolTip": "Servicios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T19:16:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Program.cs",
+              "RelativeDocumentMoniker": "Servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Program.cs",
+              "RelativeToolTip": "Servicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:15:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:48:04.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServicioManoObra.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ServicioManoObra.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\ServicioManoObra.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ServicioManoObra.cs",
+              "RelativeToolTip": "Servicios\\Models\\ServicioManoObra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:09:01.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\ServiciosManoObra\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Delete.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\ServiciosManoObra\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:51:06.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251216130136_FK_CategoriaServicio_EnServicios.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251216130136_FK_CategoriaServicio_EnServicios.cs",
+              "RelativeDocumentMoniker": "Servicios\\Migrations\\20251216130136_FK_CategoriaServicio_EnServicios.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251216130136_FK_CategoriaServicio_EnServicios.cs",
+              "RelativeToolTip": "Servicios\\Migrations\\20251216130136_FK_CategoriaServicio_EnServicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T13:01:37.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Details.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\ServiciosManoObra\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\ServiciosManoObra\\Details.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\ServiciosManoObra\\Details.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:45:27.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Servicios\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:47:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Servicios\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Servicios\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:56:16.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdenServicios.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\Consts\\OrdenServicios.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\Consts\\OrdenServicios.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\Consts\\OrdenServicios.cs",
+              "RelativeToolTip": "Servicios\\Models\\Consts\\OrdenServicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T04:30:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoriaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\CategoriaServicio.cs",
+              "RelativeDocumentMoniker": "Servicios\\Models\\CategoriaServicio.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Models\\CategoriaServicio.cs",
+              "RelativeToolTip": "Servicios\\Models\\CategoriaServicio.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:08:33.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\CategoriasServicio\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Delete.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\CategoriasServicio\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:51:38.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\CategoriasServicio\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Edit.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\CategoriasServicio\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:46:22.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Create.cshtml",
+              "RelativeDocumentMoniker": "Servicios\\Views\\CategoriasServicio\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Views\\CategoriasServicio\\Create.cshtml",
+              "RelativeToolTip": "Servicios\\Views\\CategoriasServicio\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T19:46:09.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251211192621_InicialData.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211192621_InicialData.cs",
+              "RelativeDocumentMoniker": "Servicios\\Migrations\\20251211192621_InicialData.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211192621_InicialData.cs",
+              "RelativeToolTip": "Servicios\\Migrations\\20251211192621_InicialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:26:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251211192246_inicialData.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211192246_inicialData.cs",
+              "RelativeDocumentMoniker": "Servicios\\Migrations\\20251211192246_inicialData.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211192246_inicialData.cs",
+              "RelativeToolTip": "Servicios\\Migrations\\20251211192246_inicialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:22:46.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251211191614_InicialServicios.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211191614_InicialServicios.cs",
+              "RelativeDocumentMoniker": "Servicios\\Migrations\\20251211191614_InicialServicios.cs",
+              "ToolTip": "C:\\Users\\mateo\\source\\repos\\Servicios\\Servicios\\Migrations\\20251211191614_InicialServicios.cs",
+              "RelativeToolTip": "Servicios\\Migrations\\20251211191614_InicialServicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T19:16:14.951Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
